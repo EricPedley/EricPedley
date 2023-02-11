@@ -2,3 +2,7 @@
 ## Open-source Contributions: 
 - https://github.com/aopell/SchoologyPlus/pull/250
 - https://github.com/automl/auto-sklearn/pull/1487
+
+Documentation fans HATE this one trick:
+1. Jump to definition of library source code
+2. Read implementation
