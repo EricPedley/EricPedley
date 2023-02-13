@@ -2,6 +2,7 @@
 ## Open-source Contributions: 
 - https://github.com/aopell/SchoologyPlus/pull/250
 - https://github.com/automl/auto-sklearn/pull/1487
+- https://github.com/ultralytics/ultralytics/pull/932
 
 Documentation fans HATE this one trick:
 1. Jump to definition of library source code
